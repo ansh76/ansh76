@@ -1,3 +1,4 @@
+![logo](https://github.com/ansh76/ansh76/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Ansh Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
